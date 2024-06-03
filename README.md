@@ -10,9 +10,6 @@ Welcome to the Test Repository! This repository serves as a playground for testi
 
 To get started with this repository, simply clone it to your local machine:
 
-```bash
-git clone https://github.com/your-username/test-repo.git
-```
 
 ## Usage
 
